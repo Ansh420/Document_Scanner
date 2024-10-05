@@ -16,6 +16,8 @@ A Document Scanner  is a project or repository hosted on GitHub that provides fu
 
 Utils is the module used by the code section to perform a operations on the image.
 
+Some of the Outputs are listed in above files.
+
 
 
 
