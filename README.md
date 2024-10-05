@@ -13,7 +13,10 @@ A Document Scanner  is a project or repository hosted on GitHub that provides fu
   - Either we provide a source path for the **image** in the code section.
 
 **This code internally import a module CV to process the image**. 
+
 Utils is the module used by the code section to perform a operations on the image.
+
+
 
 
 
