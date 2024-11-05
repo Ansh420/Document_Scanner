@@ -2,8 +2,8 @@
 A Document Scanner  is a project or repository hosted on GitHub that provides functionality to **scan, process, and manage documents**.
 
 ## Installed Labrary
- - CV2
- - Numpy
+ - CV2.
+ - Numpy.
 ## Testing
   This code is tested in python 3.11
 
