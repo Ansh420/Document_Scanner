@@ -5,7 +5,7 @@ A Document Scanner  is a project or repository hosted on GitHub that provides fu
  - CV2.
  - Numpy.
 ## Testing
-  This code is tested in python 3.11
+  This code is tested in python 3.11.1
 
 ## Scanning 
   For the scaaning of a physcial image into a scanned image. **We have a two ways** :-
