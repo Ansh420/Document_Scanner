@@ -9,7 +9,7 @@ A Document Scanner  is a project or repository hosted on GitHub that provides fu
 
 ## Scanning 
   For the scaaning of a physcial image into a scanned image. **We have a two ways** :-
-  - Either we can use a **webcam**
+  - Either we can use a **webcam**.
   - Either we provide a source path for the **image** in the code section.
 
 **This code internally import a module CV to process the image**. 
